@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 	  
 	  	  
-  <PackageId>New Package</PackageId>
+  <PackageId>NewPackage</PackageId>
   <Version>1.0.0</Version>
   <Authors>noorarabi</Authors>
   <Description>This Is New package</Description>
